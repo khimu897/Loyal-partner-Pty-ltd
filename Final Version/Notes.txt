@@ -1,0 +1,5 @@
+***********************
+Create Sql User
+user: test
+password: test
+databasename: loyalpartners
